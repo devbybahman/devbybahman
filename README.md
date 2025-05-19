@@ -1,4 +1,4 @@
-<h1 align="center" style="text-align: center;">Hi 👋, I'm Bahman Ranjbar</h1>
+<h1 align="center" style="text-align: center;">Hi 👋, I'm Bahman</h1>
 <h3 align="center" style="text-align: center;">A .NET Programmer</h3>
 
 <div id="header" align="center" style="text-align: center;">
@@ -48,7 +48,7 @@
         <h3 style="text-align: left;"><b>My Github Stats</b></h3>
             <p>
             <img align="center"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=imbahmanranjbar&show_icons=true&locale=en&layout=compact"
-                    alt="imbahmanranjbar" />
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=bahmansnights&show_icons=true&locale=en&layout=compact"
+                    alt="bahmansnights" />
         </p>
         </div>

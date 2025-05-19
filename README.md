@@ -16,6 +16,26 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
             src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" width="40"
             height="40" alt=".NET" /></a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
+       width="40" height="40" alt="PHP" />
+</a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
+       width="40" height="40" alt="Laravel" />
+</a>
+    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg"
+       width="40" height="40" alt="WordPress" />
+</a>
+  <a href="https://www.drupal.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg"
+       width="40" height="40" alt="Drupal" />
+</a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+       width="40" height="40" alt="Git" />
+</a>
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
             width="40" height="40" alt="VS Code" /></a>

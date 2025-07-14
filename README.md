@@ -1,65 +1,64 @@
-<h1 align="center" style="text-align: center;">Hi 👋, I'm Bahman</h1>
-<h3 align="center" style="text-align: center;">A .NET Programmer</h3>
+<div align="center">
+  
+# Hi 👋, I'm Bahman!
+### A Creative and Passionate .NET Developer
 
-<div id="header" align="center" style="text-align: center;">
-    <img src="https://64.media.tumblr.com/cdadc96caafe6ca605fc34b52f97a1b4/tumblr_mk0s45n8R81rmcgo1o1_250.gifv" />
+<br>
+
+<p>I love building useful, scalable, and elegant applications within the .NET ecosystem. I'm always learning and improving my skills to deliver the best possible solutions.</p>
+
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px">
+
 </div>
-<div id="main" align="center" style="text-align: center;">
-<h3 style="text-align: left;">Skills</h3>
-<p style="text-align: left;">
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
-            width="40" height="40" alt="C#" /></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
-            width="40" height="40" alt="visual-studio" /></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
-            src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" width="40"
-            height="40" alt=".NET" /></a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
-       width="40" height="40" alt="PHP" />
-</a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
-       width="40" height="40" alt="Laravel" />
-</a>
-    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg"
-       width="40" height="40" alt="WordPress" />
-</a>
-  <a href="https://www.drupal.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg"
-       width="40" height="40" alt="Drupal" />
-</a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-       width="40" height="40" alt="Git" />
-</a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
-            width="40" height="40" alt="VS Code" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-            width="40" height="40" alt="HTML5" /></a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-            width="40" height="40" alt="MySQL" /></a>
-    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg"
-            width="40" height="40" alt="Photoshop" /></a>
-    <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg"
-            width="40" height="40" alt="XD" /></a>
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <!-- Backend -->
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" /></a>
+  <span>  |  </span>
+  <!-- Frontend & Design -->
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /></a>
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" /></a>
+  <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="40" height="40" alt="XD" /></a>
+  <span>  |  </span>
+  <!-- Databases -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
+  <span>  |  </span>
+  <!-- Tools & CMS -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" alt="VS Code" /></a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="40" height="40" alt="WordPress" /></a>
+  <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" height="40" alt="Drupal" /></a>
 </p>
-    </div>
-    <div id="footer" align="center" style="text-align: center;">
-        <h3 style="text-align: left;"><b>My Github Stats</b></h3>
-            <p>
-            <img align="center"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=bahmansnights&show_icons=true&locale=en&layout=compact"
-                    alt="bahmansnights" />
-        </p>
-        </div>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devbybahman&show_icons=true&theme=tokyonight&locale=en&hide_border=true&count_private=true" alt="Bahman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbybahman&layout=compact&theme=tokyonight&locale=en&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="[https://t.me/DevByBahman]" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22" alt="Telegram"/>
+  </a>
+   
+  <a href="mailto:[devbybahman@gmail.com]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- Add other social media badges here if you have them -->
+</p>

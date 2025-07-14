@@ -7,7 +7,7 @@
 
 <p>I love building useful, scalable, and elegant applications within the .NET ecosystem.</p>
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px">
+<img src="https://64.media.tumblr.com/cdadc96caafe6ca605fc34b52f97a1b4/tumblr_mk0s45n8R81rmcgo1o1_250.gifv" width="300px">
 
 </div>
 

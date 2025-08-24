@@ -5,7 +5,7 @@
 
 <br>
 
-I I believe that great software, like a great life, is built on a solid framework of **structure, depth, and purpose**. My passion lies in architecting elegant, scalable, and maintainable systems, whether they're built with **Laravel** , **.NET**, or **Drupal** .
+I believe that great software, like a great life, is built on a solid framework of **structure, depth, and purpose**. My passion lies in architecting elegant, scalable, and maintainable systems, whether they're built with **Laravel** , **.NET**, or **Drupal** .
 
 <img src="https://64.media.tumblr.com/cdadc96caafe6ca605fc34b52f97a1b4/tumblr_mk0s45n8R81rmcgo1o1_250.gifv" width="300px">
 

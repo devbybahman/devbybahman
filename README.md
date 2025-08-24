@@ -1,11 +1,11 @@
 <div align="center">
   
-# Hi 👋, I'm Bahman!
-### A Creative and Passionate .NET Developer
+# Hi 👋, I'm Bahman
+### A Software Architect
 
 <br>
 
-<p>I love building useful, scalable, and elegant applications within the .NET ecosystem.</p>
+I I believe that great software, like a great life, is built on a solid framework of **structure, depth, and purpose**. My passion lies in architecting elegant, scalable, and maintainable systems, whether they're built with **Laravel** , **.NET**, or **Drupal** .
 
 <img src="https://64.media.tumblr.com/cdadc96caafe6ca605fc34b52f97a1b4/tumblr_mk0s45n8R81rmcgo1o1_250.gifv" width="300px">
 
@@ -16,18 +16,22 @@
 ### 🛠️ My Tech Stack
 
 <table align="center">
-  <tr>
-    <td align="center" width="120">
-      <b>Backend</b>
-    </td>
-    <td align="center">
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
-      <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core" /></a>
-      <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" /></a>
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" /></a>
-      <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" height="40" alt="Drupal" /></a>
-    </td>
-  </tr>
+<tr>
+  <td align="center" width="120">
+    <b>Backend</b>
+  </td>
+  <td align="center">
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core" /></a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" /></a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" /></a>
+   <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+  <img src="https://logo.svgcdn.com/d/livewire-original-wordmark.svg" width="40" height="40" alt="Livewire" />
+</a>
+    <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" height="40" alt="Drupal" /></a>
+  </td>
+</tr>
+
   <tr>
     <td align="center">
       <b>Frontend</b>
@@ -50,15 +54,40 @@
   </tr>
   <tr>
     <td align="center">
-      <b>Tools & More</b>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" alt="VS Code" /></a>
-      <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" /></a>
-      <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="40" height="40" alt="XD" /></a>
-      <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="40" height="40" alt="WordPress" /></a>
-    </td>
+<b>Tools & More</b>
+</td>
+<td align="center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
+  </a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" width="40" height="40" alt="PhpStorm" />
+  </a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="40" height="40" alt="WebStorm" />
+  </a>
+  <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" width="40" height="40" alt="Rider" />
+  </a>
+   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
+  </a>
+  <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/obsidian.svg" width="40" height="40" alt="Obsidian" />
+  </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="40" height="40" alt="WordPress" />
+  </a>
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
+  </a>
+  <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="40" height="40" alt="XD" />
+  </a>
+</td>
   </tr>
 </table>
 

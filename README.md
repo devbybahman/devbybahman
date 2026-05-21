@@ -19,13 +19,8 @@ I believe that great software, like a great life, is built on a solid framework 
       <b>Backend</b>
     </td>
     <td align="center">
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
       <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core" /></a>
-      <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" /></a>
       <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" /></a>
-      <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"><img src="https://logo.svgcdn.com/d/livewire-original-wordmark.svg" width="40" height="40" alt="Livewire"/></a> 
-      <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" height="40" alt="Drupal" /></a>
-      <!-- RabbitMQ Added -->
       <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40" alt="RabbitMQ" /></a>
     </td>
   </tr>
@@ -44,36 +39,29 @@ I believe that great software, like a great life, is built on a solid framework 
     </td>
   </tr>
 
-  <tr>
+ <tr>
     <td align="center">
       <b>Databases</b>
     </td>
     <td align="center">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40" /></a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
-      <!-- MongoDB Added -->
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" /></a>
-      <!-- Redis Added -->
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" /></a>
       <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" /></a>
     </td>
   </tr>
 
-  <tr>
+<tr>
     <td align="center">
       <b>Tools & More</b>
     </td>
     <td align="center">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git"/></a>
-      <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" width="40" height="40" alt="PhpStorm"/></a>
-      <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="40" height="40" alt="WebStorm"/></a>
       <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" width="40" height="40" alt="Rider"/></a>
       <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/></a>
       <a href="https://obsidian.md/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/obsidian.svg" width="40" height="40" alt="Obsidian"/></a>
-      <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="40" height="40" alt="WordPress"/></a>
-      <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop"/></a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma"/></a>
-      <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="40" height="40" alt="XD"/></a>
       <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="40" height="40" alt="Postman"/></a>
+    <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" height="40" alt="Swagger"/></a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker"/></a>
     </td>
   </tr>
 </table>
